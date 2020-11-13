@@ -1,0 +1,18 @@
+@import "base";
+@import "reset";
+
+// on utilise les variable de css
+:root {
+  font-family: "Public Sans", sans-serif;
+  //colors
+  //--light: #00c3ff;
+  --light: #55efc4;
+  //--primary: #2071e7;
+  --primary: #27ae60;
+  //--dark: #2980b9;
+  --dark: #16a085;
+  --text: #333;
+  --background: #fafafa;
+  --hint: #999;
+  --border: #ddd;
+}
